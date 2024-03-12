@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css"/>
+  <title>Contador de Palavras</title>
+</head>
+<body>
+  <!-- Título -->
+  <h1 id="titulo">
+    Contador de Palavras
+  </h1>
+  <!-- Subtítulo -->
+  <h2 id="subtitulo">
+    Seja bem-vindo!
+  </h2>
+  
+  <form>
+    <label for="inputPalavra">Digite uma palavra: </label>
+    <input type="text" id="inputPalavra" required>
+    
+    <div class="contador">
+      <label for="quantVogais">Quantidade de Vogais: <span id="quantVogais"></span></label>
+    </div>
+    <div class="contador">
+      <label for="quantConsoantes">Quantidade de Consoantes: <span id="quantConsoantes"></span> </label>
+    </div>
+  </form>
+  <!-- JavaScript -->
+  <script src="script.js" defer></script>
+</body>
+</html>
