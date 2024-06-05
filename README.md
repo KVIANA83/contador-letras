@@ -4,6 +4,6 @@ Ao digitar qualquer palavra, o sistema retorna como resposta a quantidade de vog
 
 ## Desenvolvimento do Projeto
 
--*HTML*;
--*CSS*;
--*JavaScript*.
+- *HTML*;
+- *CSS*;
+- *JavaScript*.
