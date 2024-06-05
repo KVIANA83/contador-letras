@@ -12,17 +12,17 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: #000;
+  background-color: #f1f1f1;
 }
 
 #titulo {
-  color: #ffe4e1;
+  color: #ea5b5b;
   text-align: center;
   margin: 1em;
 }
 
 #subtitulo {
-  color: #ffe4e1;
+  color: #ea5b5b;
   text-align: center;
   margin: 1em;
 }
@@ -35,7 +35,7 @@ form {
   margin: 1em;
   padding: 10px;
   border-radius: 0 15px 0 15px;
-  box-shadow: 2px 2px 15px 2px #ffe4e1;
+  box-shadow: 2px 2px 15px 2px #ea5b5b30;
   width: 300px;
   height: 250px;
 }
@@ -44,14 +44,14 @@ form input {
   margin: 10px;
   padding: 5px;
   border-radius: 10px;
-  border: 1px solid #ffe4e1;
+  border: 1px solid #ea5b5b;
 }
 
 label {
-  color: #ffe4e1;
+  color: #ea5b5b;
 }
 
 .contador {
-  color: #ffe4e1;
+  color: #ea5b5b;
   margin: 10px;
 }
